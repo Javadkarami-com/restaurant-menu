@@ -1,0 +1,317 @@
+{
+	"menu": {
+		"breakfast": [
+			{
+				"name": "نیمرو",
+				"price": 65000,
+				"ingredients": ["تخم مرغ", "دورچین", "چای"],
+				"image": "images/logo/logomenu.png"
+			},
+			{
+				"name": "پنیر برشته",
+				"price": 80000,
+				"ingredients": ["تخم مرغ", "شوید", "پنیر", "دورچین", "چای"],
+				"image": "images/food/panirbereshte.jpg"
+			},
+			{
+				"name": "املت امیر کافه",
+				"price": 170000,
+				"ingredients": ["گوجه", "سیر", "تخم مرغ", "ژامبون", "پنیر", "دورچین", "چای"],
+				"image": "images/logo/logomenu.png"
+			},
+			{
+				"name": "املت گوجه",
+				"price": 95000,
+				"ingredients": ["تخم مرغ", "گوجه", "سیر", "دورچین", "چای"],
+				"image": "images/logo/logomenu.png"
+			},
+			{
+				"name": "املت کلاسیک",
+				"price": 80000,
+				"ingredients": ["تخم مرغ", "رب گوجه", "دورچین", "چای"],
+				"image": "images/logo/logomenu.png"
+			},
+			{
+				"name": "املت شاپوری",
+				"price": 98000,
+				"ingredients": ["املت کلاسیک", "رب گوجه", "دورچین", "چای"],
+				"image": "images/logo/logomenu.png"
+			},
+			{
+				"name": "املت سوسیس",
+				"price": 105000,
+				"ingredients": ["تخم مرغ", "سوسیس", "رب گوجه", "دورچین", "چای"],
+				"image": "images/logo/logomenu.png"
+			},
+			{
+				"name": "املت پولد بیف",
+				"price": 175000,
+				"ingredients": ["تخم مرغ", "گوشت گوساله", "پنیر", "دورچین", "چای"],
+				"image": "images/food/poldbeef.jpg"
+			},
+			{
+				"name": "املت اسفناج",
+				"price": 145000,
+				"ingredients": ["تخم مرغ", "اسفناج", "قارچ", "پنیر", "دورچین", "چای"],
+				"image": "images/logo/logomenu.png"
+			},
+			{
+				"name": "املت یونانی",
+				"price": 135000,
+				"ingredients": ["تخم مرغ", "قارچ", "فلفل دلمه", "پنیر", "دورچین", "چای"],
+				"image": "images/logo/logomenu.png"
+			},
+			{
+				"name": "بوملت",
+				"price": 210000,
+				"ingredients": ["برگر 200 گرمی", "املت کلاسیک", "دورچین", "چای"],
+				"image": "images/food/boomlet.jpg"
+			},
+
+			{
+				"name": "بشقاب امیر کافه",
+				"price": 240000,
+				"ingredients": ["برگر 200 گرمی", "خوراک لوبیا", "نیمرو عسلی", "دورچین", "چای"],
+				"image": "images/logo/logomenu.png"
+			},
+			{
+				"name": "بشقاب ایرانی",
+				"price": 170000,
+				"ingredients": ["نیمرو عسلی", "پنیر لیقوان", "مربا", "خامه", "کره", "گردو", "دورچین", "چای"],
+				"image": "images/logo/logomenu.png"
+			},
+			{
+				"name": "بشقاب انگلیسی",
+				"price": 210000,
+				"ingredients": ["هات داگ", "خوراک لوبیا", "نیمرو", "ژامبون", "قارچ", "اب پرتغال"],
+				"image": "images/logo/logomenu.png"
+			},
+			{
+				"name": "بشقاب رژیمی",
+				"price": 195000,
+				"ingredients": ["مرغ گریل", "خوراک نودل", "سبزیجات بخارپز", "تخم مرغ", "دورچین", "میوه فصل"],
+				"image": "images/logo/logomenu.png"
+			}
+		],
+		"precourse": [
+			{
+				"name": "سیب زمینی سرخ شده با ادویه مخصوص",
+				"price": 118000,
+				"image": "images/logo/logomenu.png"
+			},
+			{
+				"name": "سیب زمینی با سس قارچ",
+				"price": 178000,
+				"image": "images/logo/logomenu.png"
+			},
+			{
+				"name": "سیب زمینی با دیپ چدار و بیکن و هالوپینو",
+				"price": 224000,
+				"image": "images/logo/logomenu.png"
+			},
+			{
+				"name": "سیب زمینی AC",
+				"price": 243000,
+				"ingredients": ["سس چیلی", "دیپ چدار - پپرونی", "هالوپینو", "زیتون سیاه"],
+				"image": "images/logo/logomenu.png"
+			},
+			{
+				"name": "بوفالو وینگز",
+				"price": 268000,
+				"image": "images/logo/logomenu.png"
+			},
+			{
+				"name": "سوپ جو",
+				"price": 118000,
+				"image": "images/logo/logomenu.png"
+			},
+			{
+				"name": "سزار با مرغ گریل",
+				"price": 220000,
+				"image": "images/logo/logomenu.png"
+			},
+			{
+				"name": "گرین سالاد",
+				"price": 198000,
+				"image": "images/logo/logomenu.png"
+			},
+			{
+				"name": "نان سیردار",
+				"price": 170000,
+				"image": "images/food/nansir.jpg"
+			}
+		],
+		"maincourse": [
+			{
+				"name": "کلاسیک برگر",
+				"price": 228000,
+				"ingredients": ["برگر دست ساز گوشت گوساله 200 گرم", "کاهو فرانسه", "سالساي گوجه", "خیارشور", "نان برگر تست شده با کره", "سس مخصوص"],
+				"image": "images/logo/logomenu.png"
+			},
+			{
+				"name": "چیز برگر",
+				"price": 248000,
+				"ingredients": ["برگر دست ساز گوشت گوساله 200 گرم", "پنیر گودا", "کاهو فرانسه", "سالساي گوجه", "خیارشور", "نان برگر تست شده با کره", "سس مخصوص"],
+				"image": "images/logo/logomenu.png"
+			},
+			{
+				"name": "دبل چیز برگر",
+				"price": 278000,
+				"ingredients": ["برگر دست ساز گوشت گوساله 200 گرم", "پنیر گودا", "کاهو فرانسه", "سالساي گوجه", "خیارشور", "نان برگر تست شده با پنیر موتزارلا", "سس مخصوص"],
+				"image": "images/logo/logomenu.png"
+			},
+			{
+				"name": "کینگ برگر",
+				"price": 298000,
+				"ingredients": ["برگر دست ساز گوشت گوساله 200 گرم", "کاهو فرانسه", "سالساي گوجه", "خیارشور", "نان برگر تست شده با کره", "سس مخصوص", "بیکن چرب گوساله", "فیله سوخاری", "پنیر گود"],
+				"image": "images/food/kingburger.jpg"
+			},
+			{
+				"name": "کوئین برگر",
+				"price": 278000,
+				"ingredients": ["برگر دست ساز گوشت گوساله 200 گرم", "کاهو فرانسه", "سالساي گوجه", "خیارشور", "نان برگر تست شده با کره", "سس مخصوص", "پنیر موتزارلا", "بیکن چرب گوساله", "قارچ", "پنیر گودا"],
+				"image": "images/food/quinburger.jpg"
+			},
+			{
+				"name": "چوریتسو برگر",
+				"price": 280000,
+				"ingredients": ["برگر دست ساز گوشت گوساله 200 گرم", "کاهو فرانسه", "سالساي گوجه", "خیارشور", "نان برگر تست شده با کره", "چوریتسو", "پنیر گودا", "قارچ"],
+				"image": "images/logo/logomenu.png"
+			},
+			{
+				"name": "ماش بیف برگر",
+				"price": 258000,
+				"ingredients": ["برگر دست ساز گوشت گوساله 200 گرم", "کاهو فرانسه", "سالساي گوجه", "خیارشور", "نان برگر تست شده با کره", "سس قارچ"],
+				"image": "images/logo/logomenu.png"
+			},
+
+			{
+				"name": "پیتزا AC",
+				"price": 348000,
+				"ingredients": ["بیکن", "بوقلمون", "بلونیزه", "سالامی دودی", "قارچ", "زیتون سیاه", "پنیر مزه دار شده", "گشنیز تازه", "سس مارینارا", "گوجه خشک", "دلمه", "پنیر گودا"],
+				"image": "images/food/pizzaac.jpg"
+			},
+			{
+				"name": "پیتزا سیر و استیک",
+				"price": 376000,
+				"ingredients": ["استیک فیله گوساله", "قارچ", "زیتون سیاه", "پیاز", "پنیر مزه دار شده", "سس اسپانول", "دلمه", "پنیر گودا"],
+				"image": "images/food/sirvastake.jpg"
+			},
+			{
+				"name": "پیتزا چیکن لاور",
+				"price": 338000,
+				"ingredients": ["استیک مرغ", "قارچ", "دلمه", "زیتون سیاه", "هالوپینو", "ریحان ایتالیایی", "سس اسپانول", "پنیر گودا"],
+				"image": "images/food/chickenlover.jpg"
+			},
+			{
+				"name": "پیتزا چیکن چوریتسو",
+				"price": 358000,
+				"ingredients": ["استیک مرغ", "چوریتسو", "قارچ", "سالامی دودی", "هالوپینو", "زیتون سیاه", "روکولا", "گوجه خشک", "سس اسپانول", "پنیر گودا"],
+				"image": "images/food/chickenchoritso.jpg"
+			},
+			{
+				"name": "پیتزا بلونیزه",
+				"price": 348000,
+				"ingredients": ["بلونیزه", "قارچ", "گوجه خشک", "بیکن", "هالوپینو", "زیتون سیاه", "روکولا", "سس مارینارا", "پنیر گودا"],
+				"image": "images/food/blonize.jpg"
+			},
+			{
+				"name": "پیتزا کالزونه",
+				"price": 365000,
+				"ingredients": ["استیک گوشت", "استیک مرغ", "قارچ", "بلونیزه", "پنیر گودا", "سالامی دودی", "هالوپینو", "زیتون سیاه", "روکولا", "سس مارینارا", "پنیر گودا"],
+				"image": "images/food/kalzone.jpg"
+			},
+			{
+				"name": "پیتزا پپرونی",
+				"price": 318000,
+				"ingredients": ["پپرونی تخمینی", "هالوپینو", "زیتون سیاه", "روکولا", "سس مارینارا", "پنیر گودا"],
+				"image": "images/food/peperoni.jpg"
+			},
+			{
+				"name": "پیتزا مارگریتا",
+				"price": 248000,
+				"ingredients": ["سس مارینارا", "پنیر موتزارلا", "گوجه خشک", "پنیر مزه دار شده", "گوجه مزه دار شده", "ریحان ایتالیایی", "روغن زیتون"],
+				"image": "images/food/margarita.jpg"
+			},
+
+			{
+				"name": "فیله سوخاری",
+				"price": 275000,
+				"image": "images/logo/logomenu.png"
+			},
+			{
+				"name": "لقمه سوخاری",
+				"price": 265000,
+				"image": "images/food/loghmesokhari.jpg"
+			},
+			{
+				"name": "بال سوخاری",
+				"price": 240000,
+				"image": "images/logo/logomenu.png"
+			},
+			{
+				"name": "پنه پولو",
+				"price": 240000,
+				"image": "images/food/pastapanepolo.jpg"
+			},
+			{
+				"name": "چیکن آلفردو",
+				"price": 310000,
+				"image": "images/logo/logomenu.png"
+			},
+			{
+				"name": "بیف آلفردو",
+				"price": 335000,
+				"image": "images/logo/logomenu.png"
+			},
+			{
+				"name": "لازانیا",
+				"price": 232000,
+				"image": "images/logo/logomenu.png"
+			}
+		],
+
+		"drink": [
+			{
+				"name": "اسموتی دوغ و نعنا",
+				"price": 60000,
+				"image": "images/logo/logomenu.png"
+			},
+			{
+				"name": "اسموتی لیموناد",
+				"price": 105000,
+				"image": "images/logo/logomenu.png"
+			},
+			{
+				"name": "اسموتی موهیتو",
+				"price": 105000,
+				"image": "images/logo/logomenu.png"
+			},
+			{
+				"name": "کوکا",
+				"price": 25000,
+				"image": "images/food/coca.jpg"
+			},
+			{
+				"name": "زیرو",
+				"price": 25000,
+				"image": "images/food/coac-zero.jpg"
+			},
+			{
+				"name": "فانتا",
+				"price": 25000,
+				"image": "images/food/fanta.jpg"
+			},
+			{
+				"name": "لیموناد",
+				"price": 25000,
+				"image": "images/food/limonad.jpg"
+			},
+			{
+				"name": "اسپرایت",
+				"price": 25000,
+				"image": "images/food/sprite.jpg"
+			}
+		]
+	}
+}
