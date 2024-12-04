@@ -2,6 +2,8 @@
 
 Online Restaurant Menu template is out 🎉</br>
 
+This Website is using Bootstrap for UI and Swiper.js for Sliders and FontAwsome for icons <br>
+all of it writed with this libary's and Vannila Javascript
 ## Some image of this template📸:</br>
 ![Online Restaurant Menu](https://cdn.jsdelivr.net/gh/3exyDevil/Website-Files@main/home.png)</br>
 ![Online Restaurant Menu](https://cdn.jsdelivr.net/gh/3exyDevil/Website-Files@main/foodMenu.png)</br>
