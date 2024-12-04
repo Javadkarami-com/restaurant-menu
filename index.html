@@ -83,13 +83,13 @@
 								<div class="swiper-slide ml-2">
 									<div class="box-collections">
 										<div class="images">
-											<a href="#items">
-												<img src="images/food/boomlet.jpg" alt="تصاویر" />
+											<a href="#items" onclick="document.getElementById('tabbreakfast').click()">
+												<img src="images/food/boomlet.jpg" alt="صبحانه" />
 											</a>
 										</div>
 										<div class="content">
 											<h3>
-												<a href="#items">صبحانه</a>
+												<a href="#items" onclick="document.getElementById('tabbreakfast').click()">صبحانه</a>
 											</h3>
 											<p>15 محصول</p>
 										</div>
@@ -98,13 +98,13 @@
 								<div class="swiper-slide">
 									<div class="box-collections">
 										<div class="images">
-											<a href="#items">
-												<img src="images/food/nansir.jpg" alt="تصاویر" />
+											<a href="#items" onclick="document.getElementById('tabprecourse').click()">
+												<img src="images/food/nansir.jpg" alt="پیش غذا" />
 											</a>
 										</div>
 										<div class="content">
 											<h3>
-												<a href="#items">پیش غذا</a>
+												<a href="#items" onclick="document.getElementById('tabprecourse').click()">پیش غذا</a>
 											</h3>
 											<p>9 محصول</p>
 										</div>
@@ -113,13 +113,13 @@
 								<div class="swiper-slide ml-2">
 									<div class="box-collections">
 										<div class="images">
-											<a href="#items">
-												<img src="images/food/kingburger.jpg" alt="تصاویر" />
+											<a href="#items" onclick="document.getElementById('tabmaincourse').click()">
+												<img src="images/food/kingburger.jpg" alt="برگر" />
 											</a>
 										</div>
 										<div class="content">
 											<h3>
-												<a href="#items">برگر</a>
+												<a href="#items" onclick="document.getElementById('tabmaincourse').click()">برگر</a>
 											</h3>
 											<p>7 محصول</p>
 										</div>
@@ -128,13 +128,13 @@
 								<div class="swiper-slide">
 									<div class="box-collections">
 										<div class="images">
-											<a href="#items">
-												<img src="images/food/sirvastake.jpg" alt="تصاویر" />
+											<a href="#items" onclick="document.getElementById('tabmaincourse').click()">
+												<img src="images/food/sirvastake.jpg" alt="پیتزا" />
 											</a>
 										</div>
 										<div class="content">
 											<h3>
-												<a href="#items">پیتزا</a>
+												<a href="#items" onclick="document.getElementById('tabmaincourse').click()">پیتزا</a>
 											</h3>
 											<p>8 محصول</p>
 										</div>
@@ -143,13 +143,13 @@
 								<div class="swiper-slide">
 									<div class="box-collections">
 										<div class="images">
-											<a href="#items">
-												<img src="images/food/loghmesokhari.jpg" alt="تصاویر" />
+											<a href="#items" onclick="document.getElementById('tabmaincourse').click()">
+												<img src="images/food/loghmesokhari.jpg" alt="سوخاری" />
 											</a>
 										</div>
 										<div class="content">
 											<h3>
-												<a href="#items">سوخاری</a>
+												<a href="#items" onclick="document.getElementById('tabmaincourse').click()">سوخاری</a>
 											</h3>
 											<p>3 محصول</p>
 										</div>
@@ -158,13 +158,13 @@
 								<div class="swiper-slide">
 									<div class="box-collections">
 										<div class="images">
-											<a href="#items">
-												<img src="images/food/pastapanepolo.jpg" alt="تصاویر" />
+											<a href="#items" onclick="document.getElementById('tabmaincourse').click()">
+												<img src="images/food/pastapanepolo.jpg" alt="پاستا" />
 											</a>
 										</div>
 										<div class="content">
 											<h3>
-												<a href="#items">پاستا</a>
+												<a href="#items" onclick="document.getElementById('tabmaincourse').click()">پاستا</a>
 											</h3>
 											<p>4 محصول</p>
 										</div>
@@ -279,16 +279,16 @@
 				<div class="section">
 					<ul class="nav nav-tabs mb-15" id="navtabs-drink1" role="tablist">
 						<li class="nav-item" role="presentation">
-							<a class="nav-link active" id="home-tab" data-bs-toggle="tab" data-bs-target="#breakfast" role="tab" aria-controls="all" aria-selected="true">صبحانه</a>
+							<a id="tabbreakfast" class="nav-link active" id="home-tab" data-bs-toggle="tab" data-bs-target="#breakfast" role="tab" aria-controls="all" aria-selected="true">صبحانه</a>
 						</li>
 						<li class="nav-item" role="presentation">
-							<a class="nav-link" id="profile-tab" data-bs-toggle="tab" data-bs-target="#precourse" role="tab" aria-controls="precourse" aria-selected="false">پیش غذا</a>
+							<a id="tabprecourse" class="nav-link" id="profile-tab" data-bs-toggle="tab" data-bs-target="#precourse" role="tab" aria-controls="precourse" aria-selected="false">پیش غذا</a>
 						</li>
 						<li class="nav-item" role="presentation">
-							<a class="nav-link" id="contact-tab" data-bs-toggle="tab" data-bs-target="#maincourse" role="tab" aria-controls="maincourse" aria-selected="false"> غذا اصلی</a>
+							<a id="tabmaincourse" class="nav-link" id="contact-tab" data-bs-toggle="tab" data-bs-target="#maincourse" role="tab" aria-controls="maincourse" aria-selected="false"> غذا اصلی</a>
 						</li>
 						<li class="nav-item" role="presentation">
-							<a class="nav-link" id="contact-tab" data-bs-toggle="tab" data-bs-target="#drink" role="tab" aria-controls="drink" aria-selected="false">نوشیدنی</a>
+							<a id="tabdrink" class="nav-link" id="contact-tab" data-bs-toggle="tab" data-bs-target="#drink" role="tab" aria-controls="drink" aria-selected="false">نوشیدنی</a>
 						</li>
 					</ul>
 
@@ -317,6 +317,12 @@
 				</li>
 			</ul>
 		</div>
+		<script>
+			function tabSwitcher(tab) {
+				document.getElementById(tab).click()
+
+			}
+		</script>
 		<script type="text/javascript" src="js/bootstrap.min.js"></script>
 		<script type="text/javascript" src="js/jquery.min.js"></script>
 		<script type="text/javascript" src="js/swiper-bundle.min.js"></script>
