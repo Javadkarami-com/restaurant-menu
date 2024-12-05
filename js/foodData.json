@@ -105,19 +105,9 @@
 				"image": "images/logo/logomenu.png"
 			},
 			{
-				"name": "سیب زمینی با دیپ چدار و بیکن و هالوپینو",
-				"price": 224000,
-				"image": "images/logo/logomenu.png"
-			},
-			{
 				"name": "سیب زمینی AC",
 				"price": 243000,
 				"ingredients": ["سس چیلی", "دیپ چدار - پپرونی", "هالوپینو", "زیتون سیاه"],
-				"image": "images/logo/logomenu.png"
-			},
-			{
-				"name": "بوفالو وینگز",
-				"price": 268000,
 				"image": "images/logo/logomenu.png"
 			},
 			{
@@ -128,11 +118,6 @@
 			{
 				"name": "سزار با مرغ گریل",
 				"price": 220000,
-				"image": "images/logo/logomenu.png"
-			},
-			{
-				"name": "گرین سالاد",
-				"price": 198000,
 				"image": "images/logo/logomenu.png"
 			},
 			{
@@ -245,8 +230,9 @@
 				"image": "images/food/loghmesokhari.jpg"
 			},
 			{
-				"name": "بال سوخاری",
-				"price": 240000,
+				"name": "استیک مرغ",
+				"price": 420000,
+				"ingredients": ["شنسیل مرغ گریل", "پوره سیب زمینی", "سس قارچ", "سبزیجات مزه دار شده"],
 				"image": "images/logo/logomenu.png"
 			},
 			{
@@ -261,7 +247,7 @@
 			},
 			{
 				"name": "بیف آلفردو",
-				"price": 335000,
+				"price": 355000,
 				"image": "images/logo/logomenu.png"
 			},
 			{
