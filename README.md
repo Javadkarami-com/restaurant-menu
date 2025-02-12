@@ -1,4 +1,4 @@
-# Restaurant Menu App
+# Restaurant Menu Website
 
 ## Installation
 
